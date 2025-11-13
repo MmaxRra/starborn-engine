@@ -15,7 +15,7 @@ git checkout -b my-feature
 ```
 ### 3. Commit changes to branch
 ```bash
-git commit -m "feat: my-new-feature"
+git commit -m "describe your addition"
 ```
 
 ### 4. Push to branch
