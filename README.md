@@ -24,8 +24,8 @@ See CONTRIBUTING.md for guidelines on how to help.
 
 ## Tech Stack
 
-- **Vite** – blazing fast dev server & bundler  
-- **React + TypeScript** – UI and app structure  
+- **Vite**  
+- **React + TypeScript** 
 - **Three.js** – 3D rendering  
 - **WebGL / WebGPU** – future GPU-based physics and rendering  
 
